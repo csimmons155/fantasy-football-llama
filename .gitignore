@@ -1,0 +1,8 @@
+training_data/
+project_notes/
+*.json
+.DS_Store
+
+# Virtual Environments
+.venv/
+__pycache__/
